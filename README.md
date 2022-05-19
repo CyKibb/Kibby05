@@ -1,7 +1,8 @@
 - 👋 Hi, I’m @Kibby05
 - 🌀 Currently Working On...
-  - Ryvl Social App
+  - Ryvl Mobile App
   - Ryvl Embedded Devices
+  - MyPITBOARD VM1.2 Software Rebuild
   - LEAF - Low-Voltage Energy Aggregation Framework
 - 👀 I’m interested in ...
   - Electronics
