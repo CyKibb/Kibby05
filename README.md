@@ -1,13 +1,21 @@
 - 👋 Hi, I’m @Kibby05
+- 🌀 Currently Working On...
+  - Ryvl Social App
+  - Ryvl Embedded Devices
+  - LEAF - Low-Voltage Energy Aggregation Framework
 - 👀 I’m interested in ...
-  - Developing IoT connected embedded systems... Specifically NB-IoT as of right now :).
-  - Currently developing open source low voltage network dynamics tool. Launch TBA...
+  - Electronics
+  - Embedded Hardware
+  - Embedded Software
+  - Mobile Applications
+  - Cloud Computing
 - 🌱 I’m currently learning ...
-  - Currently learning dart/flutter
-  - AWS backend
+  - Flutter/Dart
+  - AWS Serverless Computing
   - Django Backend
+  - Ts/js
 - 💞️ I’m looking to collaborate on ...
-  - Open source low voltage power network dynamics
+  - Embedded C Projects
 - 📫 How to reach me ...
   - kibby@mypitboard.com
 
